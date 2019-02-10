@@ -3,5 +3,5 @@
 add
 ###Studenti
 
-* (Alex)[]
-* (Rares)[https://github.com/Raresstefan/React/]
+* [Alex](https://github.com/alexandrusoare/React)
+* [Rares](https://github.com/Raresstefan/React/)
